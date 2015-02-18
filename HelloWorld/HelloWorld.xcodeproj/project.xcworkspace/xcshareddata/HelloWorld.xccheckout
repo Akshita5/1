@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1262F6CD-1E96-46E8-9F23-17B6CCC2BA9F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>62F82BEA-400E-442E-ABEA-FAA2B372982F</key>
+		<string>https://github.com/Akshita5/1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloWorld/HelloWorld.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>62F82BEA-400E-442E-ABEA-FAA2B372982F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Akshita5/1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>62F82BEA-400E-442E-ABEA-FAA2B372982F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>62F82BEA-400E-442E-ABEA-FAA2B372982F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>newTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
